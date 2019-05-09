@@ -1,0 +1,22 @@
+$ git commit -m &quot;First commit&quot;
+[master (root-commit) 9f01d69] First commit
+15 files changed, 172 insertions(+)
+create mode 100644 Labno10.sln
+create mode 100644 Labno10.v12.suo
+create mode 100644 Labno10/App.config
+create mode 100644 Labno10/Labno10.csproj
+create mode 100644 Labno10/Program.cs
+create mode 100644 Labno10/Properties/AssemblyInfo.cs
+create mode 100644 Labno10/bin/Debug/Labno10.exe.config
+create mode 100644 Labno10/bin/Debug/Labno10.vshost.exe
+create mode 100644 Labno10/bin/Debug/Labno10.vshost.exe.config
+create mode 100644 Labno10/bin/Debug/Labno10.vshost.exe.manifest
+create mode 100644 Labno10/obj/Debug/DesignTimeResolveAssemblyReferencesInput.c
+ache
+create mode 100644 Labno10/obj/Debug/Labno10.csproj.FileListAbsolute.txt
+create mode 100644 Labno10/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-
+8D20-8F5ADCB23D92.cs
+create mode 100644 Labno10/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-
+877b-f7221da3dda1.cs
+create mode 100644 Labno10/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-
+B56E-8E70B10BC5D3.cs
